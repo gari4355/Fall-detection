@@ -1,5 +1,5 @@
 # Fall-detection
-# AI-Powered Fall Detection Robot for Elderly Safety  
+# AI-Powered Fall Detection Rover for Elderly Safety  
 
 An AI-powered autonomous robotic system designed to monitor elderly individuals, detect falls in real-time, and provide immediate alerts to caregivers. This project combines advanced sensors, machine learning algorithms, and robotic controls to enhance the safety, independence, and quality of life for elderly individuals while reducing caregiver burden.
 
